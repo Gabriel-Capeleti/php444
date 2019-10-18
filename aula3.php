@@ -10,7 +10,7 @@
     <h1>Calcula a Comissão dos Vendedores</h1>
     <hr>
     
-    <form method="GE">
+    <form method="GET">
         
         Nome:
         <br>
